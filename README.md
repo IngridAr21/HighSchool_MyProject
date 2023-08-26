@@ -1,4 +1,4 @@
-# [E.D.F - Creative](https://startbootstrap.com/template-overviews/creative/)
+# [E.D.F]
 <h5>I have added more pages and also i have changed the colour,the images and more,it was hard but now i am happy for this project because i thought that i was not able to make it</h5>
 
 ## About
